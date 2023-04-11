@@ -1,9 +1,9 @@
-### Graduado en Ingeniería Informática
-### GDG Jaén Member
+### 🎓 Graduado en Ingeniería Informática 
+### 🤓 GDG Jaén Member 
 
 Actualmente ando trabajando en algunos proyectos personales en los que pruebo algunas nuevas tecnologías que tenía pendientes, antes de lanzarme al mundo laboral.
 
-## Principales proyectos
+## 👨‍💻 Principales proyectos
 
 Durante mi grado en Informática he **masterizado C++ en profundidad** en muchas prácticas.
 
@@ -12,7 +12,7 @@ He trabajado con **OpenGL 4.*** en mucha profundidad, y luego me pasé a **UNITY
 - Simulador de drones como TFG
 - 3 videojuegos (2 de los cuales para Game Jams)
 
-## Otros proyectos
+## 🗃 Otros proyectos
 
 En menor medida, he picoteado en asignaturas sueltas de la carrera:
 - Web Development con Bootstrap y MySQL, usando JS, CSS, HTML y PHP
@@ -21,7 +21,7 @@ En menor medida, he picoteado en asignaturas sueltas de la carrera:
 - Flutter con Dart para desarrollo de aplicaciones móviles
 - Mucho UI/UX, apoyándome en Photoshop para casi todos los proyectos que necesitaban UI
 
-## Planes a futuro
+## 💭 Planes a futuro
 
 Tengo planeado formarme de forma autodidacta ahora que me he graduado, a no ser que encuentre un Master que me satisfaga.
 
