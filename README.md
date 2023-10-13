@@ -1,7 +1,6 @@
 ### 🎓 Graduado en Ingeniería Informática 
-### 🤓 GDG Jaén Member 
 
-Actualmente ando trabajando en algunos proyectos personales en los que pruebo algunas nuevas tecnologías que tenía pendientes, antes de lanzarme al mundo laboral.
+Trabajando en algunos proyectos personales en los que pruebo algunas nuevas tecnologías que tenía pendientes, antes de lanzarme al mundo laboral.
 
 ## 👨‍💻 Principales proyectos
 
@@ -23,9 +22,10 @@ En menor medida, he picoteado en asignaturas sueltas de la carrera:
 
 ## 💭 Planes a futuro
 
-Tengo planeado formarme de forma autodidacta ahora que me he graduado, a no ser que encuentre un Master que me satisfaga.
+Tengo planeado formarme de forma autodidacta ahora que me he graduado.
 
 Entre las cosas que me gustaría desarrollarme de forma profesional están:
+- Full Stack con React, TS y por último Next.JS para crear proyectos en mente
 - Masterizar Flutter (terminar una app que dejé a medias durante el grado y masterizarlo casi tanto como Unity)
 - Aprender más sobre UI/UX y patrones de diseño.
 Pensando en un futuro quizás meterme en la industria de las aplicaciones móviles.
