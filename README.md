@@ -1,33 +1,36 @@
+### 🚀 Trabajando como Miembro del Grupo de Investigación GGGJ (Grupo de Gráficos y Geomática de Jaén) en la Universidad de Jaén
+
 ### 🎓 Graduado en Ingeniería Informática 
 
-Trabajando en algunos proyectos personales en los que pruebo algunas nuevas tecnologías que tenía pendientes, antes de lanzarme al mundo laboral.
+## 👨‍💻 Mis proyectos
 
-## 👨‍💻 Principales proyectos
+### 🎛️ Desarrollo de Simuladores / Modelos Computacionales
+- Simulador de Pilotaje de Drones usando Unity y C++ con OpenGL. [Página itch.io](https://freyzerfault.itch.io/drone-sim)
+- Generador de Terrenos Procedurales usando TIN. [Video Demo](https://www.youtube.com/watch?v=1Gj2X8e-a8g)
 
-Durante mi grado en Informática he **masterizado C++ en profundidad** en muchas prácticas.
+### 🎮 Desarrollo de Videojuegos con Unity
+- Antium. [Página itch.io](https://freyzerfault.itch.io/antium)
+- Citygrama. [Página itch.io](https://freyzerfault.itch.io/citygrama)
 
-He trabajado con **OpenGL 4.*** en mucha profundidad, y luego me pasé a **UNITY**, el cual exprimí al máximo durante **2 años de Experiencia** y **5 proyectos acabados** a mis espaldas:
-- Generador de terrenos procedural
-- Simulador de drones como TFG
-- 3 videojuegos (2 de los cuales para Game Jams)
 
-## 🗃 Otros proyectos
+### 🌐 Web Development con NextJS, React, Typescript y CSS
+- Proyectos de Páginas Estáticas sueltas con React:
+- [Mi Portfolio](https://daviduvi.dev)
+- [Pergaminos Amigo](https://pergaminos-amigo.onrender.com)
+- [Potato Router](https://potato-router.onrender.com)
+- [Precios Fratz](https://precios-fratz.onrender.com)
+- Página Web con NextJS: [oborus.es](https://oborus.es)
 
-En menor medida, he picoteado en asignaturas sueltas de la carrera:
-- Web Development con Bootstrap y MySQL, usando JS, CSS, HTML y PHP
-- Puro JAVA para algunas prácticas de IA, metaheurísticas y multiagentes
-- Python en Jupiter Notebooks usando Anaconda para algoritmos en reconocimiento y postprocesado de imágenes
-- Flutter con Dart para desarrollo de aplicaciones móviles
-- Mucho UI/UX, apoyándome en Photoshop para casi todos los proyectos que necesitaban UI
+### 📱 Desarrollo de Aplicaciones Móviles con Flutter
+- El Lobo: Aplicación de apoyo para narrador del juego Los hombre-lobo de Castonegro. [Descarga APK](https://github.com/FreyzerFault/El-lobo/releases)
+
 
 ## 💭 Planes a futuro
 
-Tengo planeado formarme de forma autodidacta ahora que me he graduado.
-
-Entre las cosas que me gustaría desarrollarme de forma profesional están:
-- Full Stack con React, TS y por último Next.JS para crear proyectos en mente
-- Masterizar Flutter (terminar una app que dejé a medias durante el grado y masterizarlo casi tanto como Unity)
-- Aprender más sobre UI/UX y patrones de diseño.
-Pensando en un futuro quizás meterme en la industria de las aplicaciones móviles.
-- Manin: Framework de Animación en python, utilizado mayormente en Divulgación en Matemáticas e Informática
+Tengo planeado formarme de forma autodidacta o en cursos que encuentre de:
+- Masterizar Flutter (terminar la App El Lobo)
+- Aprender Figma
+- Manin: Framework de Animación Matemática en python
 - Unreal Engine
+- Godot
+- Machine Learning
