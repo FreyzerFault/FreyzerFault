@@ -1,4 +1,4 @@
-# English
+# 🇬🇧 English
 
 ## Game Developer | Tech Artist
 
@@ -48,7 +48,7 @@ Programming, Game Design, and 2D/3D Art. Primarily focused on Unity.
 
 ---
 
-# Español
+# 🇪🇸 Español
 
 ## Game Developer | Tech Artist
 
